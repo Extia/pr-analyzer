@@ -1,2 +1,12 @@
 # pr-analyzer
-Analyse pull or merge request for various source code repository.
+Analyse and highlight pull or merge requests for various source code repository.
+
+
+## On Chrome
+
+Steps : 
+- Copy content of ****-analyser.js 
+- Create a bookmark
+- Paste content into the URL field
+- Go in a pull request on the files changed
+- Click on the bookmark => you will see the highlights on the code
