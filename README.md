@@ -5,7 +5,7 @@ Analyse and highlight pull or merge requests for various source code repositorie
 ## Philosphy
 
 Linters (eslint) are good things, but sometimes not adapted to human pair reviewing.
-This tool highlights things YOU can decide for yourself, your particularly project, your particularly team, responsibilities, skills...
+This tool highlights things YOU can decide for yourself, your particular project, your particular team, responsibilities, skills...
 
 Example we like : highlight conditions `if (xxx) else ` because it's often related to business and functionnal rules. And we have to take care of that :).
 
@@ -32,5 +32,5 @@ Steps to create the bookmarklet :
 - Copy one content of `code content for browser execution`, see above :arrow_double_up:
 - Create a bookmark
 - Paste content into the URL field
-- Go in a pull request on the files changed
+- Go in a pull request on the `files changed` or similar section
 - Click on the bookmark => you will see the highlights on the code
