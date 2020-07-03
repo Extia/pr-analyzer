@@ -20,7 +20,7 @@ We support :
 - Bitbucket pull request
 
 
-## Code for execution : 
+## Code content for browser execution : 
 
 - Bitbucket : https://raw.githubusercontent.com/needone/pr-analyzer/master/analyzer/bitbucket.min.js
 - Github : https://raw.githubusercontent.com/needone/pr-analyzer/master/analyzer/github.min.js
@@ -29,7 +29,7 @@ We support :
 ## Steps on Google Chrome
 
 Steps to create the bookmarklet : 
-- Copy content of a `/analyzer/xxxx.js` file 
+- Copy content of file browser execution :arrow_double_up:
 - Create a bookmark
 - Paste content into the URL field
 - Go in a pull request on the files changed
