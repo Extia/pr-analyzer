@@ -20,6 +20,12 @@ We support :
 - Bitbucket pull request
 
 
+## Code for execution : 
+
+- Bitbucket : https://raw.githubusercontent.com/needone/pr-analyzer/master/analyzer/bitbucket.min.js
+- Github : https://raw.githubusercontent.com/needone/pr-analyzer/master/analyzer/github.min.js
+
+
 ## Steps on Google Chrome
 
 Steps to create the bookmarklet : 
