@@ -29,7 +29,7 @@ We support :
 ## Steps on Google Chrome
 
 Steps to create the bookmarklet : 
-- Copy one content `for browser execution` :arrow_double_up:
+- Copy one content of `code content for browser execution`, see above :arrow_double_up:
 - Create a bookmark
 - Paste content into the URL field
 - Go in a pull request on the files changed
