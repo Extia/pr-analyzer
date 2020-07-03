@@ -22,7 +22,7 @@ We support :
 
 ## Steps on Google Chrome
 
-Steps : 
+Steps to create the bookmarklet : 
 - Copy content of a `/analyzer/xxxx.js` file 
 - Create a bookmark
 - Paste content into the URL field
