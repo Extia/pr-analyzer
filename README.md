@@ -13,7 +13,7 @@ We support :
 ## Steps on Google Chrome
 
 Steps : 
-- Copy content of a `****-analyser.js` file 
+- Copy content of a `/analyzer/xxxx.js` file 
 - Create a bookmark
 - Paste content into the URL field
 - Go in a pull request on the files changed
