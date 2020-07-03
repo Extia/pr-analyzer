@@ -26,7 +26,6 @@ jobs:
         uses: nizarmah/auto-minify@master
         with:
           directory: 'analyzer'
-          output: 'pr-analyzer/bookmarklet'
     
       # Auto commits minified files to the repository
       # Ignore it if you don't want to commit the files to the repository 
