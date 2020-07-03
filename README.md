@@ -1,8 +1,16 @@
 # pr-analyzer
-Analyse and highlight pull or merge requests for various source code repository.
+Analyse and highlight pull or merge requests for various source code repositories.
 
 
-## On Chrome
+## Supported source code repositories
+
+We support : 
+
+- Github pull request
+- Bitbucket pull request
+
+
+## Steps on Google Chrome
 
 Steps : 
 - Copy content of a `****-analyser.js` file 
