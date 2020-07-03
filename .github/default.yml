@@ -2,14 +2,13 @@ on:
     push:
         branches:
            - master
- jobs:
-     default:
+jobs:
+    default:
         steps:
-            - name: Checkout Repo
-              uses: actions/checkout@master
-        
-            - name: Brotli compress the html, css and js files in the "build" directory
-              id: brotli
-              uses: charlesworth/compress-action@1.0
-              with:
+            -   name: Checkout Repo
+                uses: actions/checkout@master
+            -   name: Brotli compress the html, css and js files in the "build" directory
+                id: brotli
+                uses: charlesworth/compress-action@1.0
+                with:
                 target-directory: 'build'
